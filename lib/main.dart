@@ -62,6 +62,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'git branch feature/test (ブランチの作成)',
             ),
             Text(
+              '',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
