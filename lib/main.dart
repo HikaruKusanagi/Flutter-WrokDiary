@@ -68,7 +68,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'git branch (現在いるブランチの確認)',
             ),
             Text(
-              '',
+              'git add -u　(コミット内容を追加)',
             ),
             Text(
               '$_counter',
