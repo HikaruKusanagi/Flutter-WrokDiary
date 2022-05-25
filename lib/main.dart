@@ -68,6 +68,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'git branch (現在いるブランチの確認)',
             ),
             Text(
+              '',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
