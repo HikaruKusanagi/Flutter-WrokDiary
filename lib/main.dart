@@ -52,8 +52,11 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
+            Text(
               '5月16日　Flutter業務開始',
+            ),
+            Text(
+              'Git操作を学ぶ',
             ),
             Text(
               '$_counter',
