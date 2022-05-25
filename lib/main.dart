@@ -65,6 +65,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'git checkout test (ブランチ切り替え)',
             ),
             Text(
+              '',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
