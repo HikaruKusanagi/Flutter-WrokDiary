@@ -59,6 +59,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'Git操作を学ぶ',
             ),
             Text(
+              '',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
