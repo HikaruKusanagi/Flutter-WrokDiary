@@ -62,7 +62,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'git branch feature/test (ブランチの作成)',
             ),
             Text(
-              '',
+              'git checkout test (ブランチ切り替え)',
             ),
             Text(
               '$_counter',
