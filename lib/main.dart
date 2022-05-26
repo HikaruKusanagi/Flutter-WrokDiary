@@ -71,6 +71,9 @@ class _MyHomePageState extends State<MyHomePage> {
               'git add -u　(コミット内容を追加)',
             ),
             Text(
+              '5月26業務内容',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
