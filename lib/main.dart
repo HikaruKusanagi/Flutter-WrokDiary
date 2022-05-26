@@ -74,6 +74,9 @@ class _MyHomePageState extends State<MyHomePage> {
               '5月26業務内容',
             ),
             Text(
+              '',
+            ),
+            Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
             ),
