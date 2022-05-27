@@ -59,9 +59,6 @@ class _MyHomePageState extends State<MyHomePage> {
               'Git操作を学ぶ',
             ),
             Text(
-              'git branch feature/test (ブランチの作成)',
-            ),
-            Text(
               'git checkout test (ブランチ切り替え)',
             ),
             Text(
