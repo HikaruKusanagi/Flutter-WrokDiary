@@ -59,9 +59,6 @@ class _MyHomePageState extends State<MyHomePage> {
               'Git操作を学ぶ',
             ),
             Text(
-              'git branch (現在いるブランチの確認)',
-            ),
-            Text(
               'git add -u　(コミット内容を追加)',
             ),
             Text(
